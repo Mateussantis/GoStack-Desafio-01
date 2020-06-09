@@ -1,0 +1,17 @@
+{
+  "name": "GoStack-Desafio-01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Mateussantis/GoStack-Desafio-01.git",
+  "author": "Mateussantis <mateussantiss@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
